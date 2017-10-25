@@ -1,0 +1,69 @@
+<style>
+    /* This is a CSS comment */
+    
+    h1 {
+      color: darkred;
+      font-family: "Arial Black", sans-serif;
+      text-shadow: 2px 2px 2px black
+    }
+
+    h2 {
+      font-family: "Arial Black", sans-serif;
+      text-shadow: 1px 1px 1px darkred
+    }
+
+    h3 {
+      font-family: "Arial Black", sans-serif;
+    }
+
+    nav {
+      background-color: darkseagreen;
+      border: 3px solid black;
+    }
+    
+    #main {
+      background-color: khaki;
+    }
+
+    .highlight {
+      color: darkcyan;
+      list-style-type: square;
+    }
+    
+    aside {
+      background-color: ghostwhite;
+      border: 3px solid black;
+    }
+    
+    highlight {
+      color: green;
+    }
+    
+    a {
+      text-decoration:underline;
+      color: black;
+      font-family: sans-serif;
+      font-weight: bold;
+    }
+    
+    a:hover {
+      text-decoration-color: darkred;
+      color: darkred;
+      font-size:2em;
+    }
+    
+    P::first-letter {
+      font-size:1.25em;
+      color:firebrick;
+    }
+
+    p {
+      font-family: sans-serif;
+      color: darkred;
+    }
+
+    footer {
+      font-family: sans-serif;
+    }
+
+  </style>
